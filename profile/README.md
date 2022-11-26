@@ -11,6 +11,11 @@
 - [YinCheng](https://github.com/YinCheng0106) `首席` 
 
 ---
+## **目前開發**
+
+- [Discord BOT](https://github.com/YINLA-TEAM/YINLA)
+
+---
 ### **DISCORD 支援群**
 <p align="left">
 <a href="https://discord.gg/mnCHdBbh65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/mnCHdBbh65" height="30" width="40" /></a>
