@@ -16,7 +16,7 @@
 - [Discord BOT](https://github.com/YINLA-TEAM/YINLA)
 
 ---
-![skills](https://skillicons.dev/icons?i=html,css,js,py,cpp,)
+![skills](https://skillicons.dev/icons?i=html,css,js,py,cpp,md,)
 
 ---
 ### **DISCORD 支援群**
