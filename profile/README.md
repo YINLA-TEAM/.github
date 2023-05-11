@@ -15,7 +15,7 @@
 - [官網](https://yinla-team.github.io)
 
 ---
-![skills](https://skillicons.dev/icons?i=html,css,js,py,cpp,md,)
+![skills](https://skillicons.dev/icons?i=html,css,js,py,cpp,md,vue,vite)
 
 ---
 ### **DISCORD 支援群**
