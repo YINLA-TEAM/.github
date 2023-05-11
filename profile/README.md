@@ -12,7 +12,7 @@
 ## **目前開發**
 
 - [Discord BOT](https://github.com/YINLA-TEAM/YINLA) 
-- [官網](https://yinla-team.github.io)
+- [官網](https://yinla-team.github.io/website/)
 
 ---
 ![skills](https://skillicons.dev/icons?i=html,css,js,py,cpp,md,vue,vite)
